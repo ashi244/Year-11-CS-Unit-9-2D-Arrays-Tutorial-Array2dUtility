@@ -144,5 +144,4 @@ public class Array2dUtilityTest {
         assertTrue(colSums3[3] == 105);
         assertTrue(colSums3[4] == 115);
     }
-
 }
